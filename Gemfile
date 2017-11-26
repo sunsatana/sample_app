@@ -26,6 +26,7 @@ gem 'turbolinks'
 gem 'jbuilder'
 gem 'rspec-rails'
 gem 'capybara'
+gem 'bootstrap-sass'
 
 group :doc do
   gem 'sdoc', require: false
