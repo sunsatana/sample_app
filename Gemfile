@@ -27,6 +27,7 @@ gem 'jbuilder'
 gem 'rspec-rails'
 gem 'capybara'
 gem 'bootstrap-sass'
+gem 'bcrypt-ruby'
 
 group :doc do
   gem 'sdoc', require: false
