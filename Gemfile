@@ -18,6 +18,11 @@ group :test do
    gem 'capybara'
 end
 
+gem "factory_bot_rails"
+gem 'guard-rspec'
+gem 'growl'
+gem 'dotenv-rails'
+gem 'sqlite3'
 gem 'sass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
@@ -26,7 +31,7 @@ gem 'turbolinks'
 gem 'jbuilder'
 gem 'rspec-rails'
 gem 'capybara'
-gem 'bootstrap-sass'
+gem 'bootstrap-sass', '2.3.2.0'
 gem 'bcrypt-ruby'
 
 group :doc do
